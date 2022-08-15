@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ab-rnjn
-- 👀 I’m interested in fullstack development, data science
-- 🌱 I’m currently learning java
+- 👀 I’m interested in fullstack development, blockchain
+- 🌱 I’m currently learning rust
 - 💞️ I’m looking to collaborate on node.js, react.js
 - 📫 How to reach me, mail me
 
