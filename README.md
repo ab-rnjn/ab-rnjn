@@ -2,7 +2,7 @@
 - 👀 I’m interested in fullstack development, blockchain
 - 🌱 I’m currently learning rust
 - 💞️ I’m looking to collaborate on node.js, react.js
-- 📫 How to reach me, mail me
+- 📫 How to reach me, ping me @ https://in.linkedin.com/in/ab-rnjn
 
 <!---
 ab-rnjn/ab-rnjn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
